@@ -1,5 +1,3 @@
-# Paragon_Footwears_Clone
-A clone website of paragonfootwears using HTMLand CSS
 
 Paragon Footwear Clone Website
 ==============================
